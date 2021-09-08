@@ -1,4 +1,4 @@
-module TaxonDecorator do
+module TaxonDecorator
   Spree::Taxon.class_eval do
 
     private
